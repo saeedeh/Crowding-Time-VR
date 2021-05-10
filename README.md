@@ -1,5 +1,5 @@
 # Crowding-Time-VR
-This repository contains the data and analysis code for a project using Virtual Reality to examine the relationship between crowding and time perception.
+This repository contains the data and analysis code for a project on the relationship between crowding and time perception, tested in a virtual reality setting.
 
 
 ## Data
