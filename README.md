@@ -3,7 +3,7 @@ This repository contains the data and analysis code for a project on the relatio
 
 
 ## Data
-Data contains the participants responses to questions and surveys, cardiac data collected using the E4 wristband, and time logs of start and end of each trip (to align with cardiac data since cardiac data was collected on a different devide with no indicator of trip start/end time).
+Data contains the participants responses to questions and surveys, cardiac data collected using the E4 wristband, and time logs of start and end of each trip (to align with cardiac data).
 
 ### E4
 Cardiac data recorded by E4 wristband
