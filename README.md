@@ -9,8 +9,6 @@ Here is a demo of the train environment at the lowest crowding level:
 And here is the environment at the highest crowding level: 
 
 [![level five](https://img.youtube.com/vi/dXZu23cMfEw/0.jpg)](https://www.youtube.com/watch?v=0E4O-S3givg)
-https://youtu.be/0E4O-S3givg
-
 
 
 
