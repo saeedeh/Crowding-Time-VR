@@ -11,7 +11,7 @@ And here is the environment at the highest crowding level (https://www.youtube.c
 [![level five](https://img.youtube.com/vi/0E4O-S3givg/0.jpg)](https://www.youtube.com/watch?v=0E4O-S3givg)
 
 
-The below video shows the setting of the VR experiment in the lab. The wristband on the right hand is for recording physiological data. The tablet shows the heart rate and skin conductance response in real-time.
+The below video shows the setting of the VR experiment in the lab. The wristband on the right hand is for recording physiological data. The tablet screen shows the real-time cardiac recording from the wristband (connected to the tablet via bluetooth).
 
 [![level five](https://img.youtube.com/vi/Rc7tcL7Pz60/0.jpg)](https://www.youtube.com/watch?v=Rc7tcL7Pz60)
 
