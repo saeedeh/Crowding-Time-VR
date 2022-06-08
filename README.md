@@ -1,9 +1,14 @@
 # Crowding-Time-VR
 This repository contains the data and analysis code for a project on the relationship between crowding and time perception, tested in a virtual reality setting.
 
-Here is a demo of the train environment at the lowest crowding level: https://youtu.be/dXZu23cMfEw
+Here is a demo of the train environment at the lowest crowding level: 
+[![crowding level 1](https://img.youtube.com/vi/dXZu23cMfEw/20.jpg)](https://www.youtube.com/watch?v=dXZu23cMfEw)
+
+https://youtu.be/dXZu23cMfEw
 
 And here is the environment at the highest crowding level: https://youtu.be/0E4O-S3givg
+
+
 
 
 ## Data
