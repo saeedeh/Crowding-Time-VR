@@ -16,10 +16,12 @@ The below video shows the setting of the VR experiment in the lab. The wristband
 
 [![level five](https://img.youtube.com/vi/Rc7tcL7Pz60/0.jpg)](https://www.youtube.com/watch?v=Rc7tcL7Pz60)
 
+
 Here is the audio heard during a trip including the start message, and the start and end signal tones.
 
+https://user-images.githubusercontent.com/5148337/172707910-c202fb25-eda7-459a-b34b-4183245fdb87.mp4
 
-https://user-images.githubusercontent.com/5148337/172707770-53bbde1c-fb2e-460f-a6c4-b5460c08e4cc.mp4
+
 
 
 
